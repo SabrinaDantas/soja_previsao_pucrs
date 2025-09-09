@@ -97,8 +97,8 @@ Exemplo de saída:
 | README.md                           | Documentação principal do repositório                                     |
 
 
+**Todo o código, dados e dashboards estão disponíveis neste repositório GitHub:**  [Acesse o repositório aqui](https://github.com/SabrinaDantas/soja_previsao_pucrs)
 
-**Todo o código, dados e dashboards estão disponíveis neste repositório GitHub**: [Acesse o repositório aqui]([https://github.com/usuario/repositorio-soja](https://github.com/SabrinaDantas/soja_previsao_pucrs))
 
 ## Autor
 
